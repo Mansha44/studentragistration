@@ -1,0 +1,4 @@
+node_modules/
+.env
+mongopractice.js
+index.js
